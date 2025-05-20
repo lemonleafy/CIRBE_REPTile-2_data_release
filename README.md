@@ -3,6 +3,8 @@ Data release for the Colorado Inner Radiation Belt Experiment mission.
 
 Rules of use: The CIRBE/REPTile-2 data are available for science research. Users should contact the PI, professor Xinlin Li, to discuss the possible issues and appropriate applications of these data. Users publishing results should provide appropriate acknowledgement and should provide the version number of the data being used.
 
+We acknowledge the use of the IRBEM library (4.4.0) to process the data, the latest version of which can be found at https://doi.org/10.5281/zenodo.6867552.
+
 Acknowledgments: The REPTile-2 data are provided by the University of Colorado; the REPTile-2 PI is Dr. Xinlin Li. The references below can be cited for the REPTile-2 data products. 
 
 Reference 1:  Li, X., Kohnert, R., Palo, S., Selesnick, R., Khoo, L.-Y., Schiller, Q., et al. (2022). Two Generations of CubeSat Missions (CSSWE and CIRBE) to Take on the Challenges of Measuring Relativistic Electrons in the Earth’s Magnetosphere. Proceedings of the Small Satellite Conference, SSC22-III-03. https://digitalcommons.usu.edu/smallsat/2022/all2022/152/
