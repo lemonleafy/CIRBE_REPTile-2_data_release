@@ -1,0 +1,26 @@
+2023/05/13: 2567:14704 (end)
+2023/05/14: 1:14076 (end)
+2023/05/15: 1:14260 (end)
+2023/05/16: 1:6896 (end)
+2023/05/17: 1:6628 (end)
+2023/05/18: 1:5107 (end)
+2023/05/19: 1:1031
+2023/05/29: 463:6979 (end)
+2023/05/30: 1:2281 (end)
+2023/06/08: 1:29654 (end)
+2023/06/23: 4991:5214 (end)
+2024/02/17: 12543:13163 (end)
+2024/03/11: 17165 (end)
+2024/03/13: 14420:15527
+2024/08/02: 13480:13646
+
+May 2023 threshold change: end of 5/13/23, all of 5/14-5/18, beginning of 5/19
+Second May anomaly: Most of 5/29/23, all of 5/30
+Nonsense day: 2023/06/08
+All spike features: 6/23/23, 2/17/24, 3/13/24, 8/02/24
+Low count anomaly: One datapoint on 3/11/24
+
+TIMES WHERE DATAPOINTS ARE REMOVED
+
+Double datapoints: 6/21/23, 6/25, and 7/01, doubles are removed
+Intruding mislabeled data: 11/05/23, intruding data removed
